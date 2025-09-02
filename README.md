@@ -34,6 +34,10 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,docker,linux&perline=7&theme=dark" />
+</p>
+
 
 ---
 
