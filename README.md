@@ -7,11 +7,12 @@
 <h1 align="center">¡Hola, soy Abigail! 👋</h1>
 
 </p>
-<p align="center">
+<p align="center"> 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=%C2%A1Hola%2C+soy+Abigail!+%F0%9F%91%8B;Estudiante+de+programaci%C3%B3n;Python+%26+Java;Simplex"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF69B4&center=true&vCenter=true&width=800&lines=%C2%A1Hola%2C+soy+Abigail!+%F0%9F%91%8B;Estudiante+de+programaci%C3%B3n;Python+%26+Java;Estructuras+de+datos;Sistemas+Operativos;C%C3%A1lculo+Vectorial;Simplex"
     alt="Typing SVG" />
 </p>
+
 
 ---
 
