@@ -59,7 +59,7 @@
 
 ---
 
-# 🧩 Curiosidad
+### 🧩 Curiosidad
 > “Primero lo entiendo, luego lo automatizo.” ✨
 
 ---
