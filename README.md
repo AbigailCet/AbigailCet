@@ -8,9 +8,10 @@
 <p align="center">
   Estudiante de programación • Python & Java • 
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.svg" alt="Hola, soy Abigail! 👋">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=%C2%A1Hola%2C+soy+Abigail!+%F0%9F%91%8B;Estudiante+de+programaci%C3%B3n;Python+%26+Java;Estructuras+de+datos;Sistemas+Operativos;C%C3%A1lculo+Vectorial;Simplex"
+    alt="Typing SVG" />
 </p>
 
 ---
