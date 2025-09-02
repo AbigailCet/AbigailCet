@@ -17,8 +17,10 @@
 ---
 
 ### 🧭 Sobre mí
-- 🎓 Soy estudiante universitaria enfocada en **programación** (Python y un poco de Java).
-- He colaborado en equipo de investigación sobre la investigación de la identificación de la chinche besucona con la arquitectura de YOLOv8: https://maikron.org/jaica/index.php/ojs/article/view/36?fbclid=IwY2xjawMifxNleHRuA2FlbQIxMABicmlkETE5cjhGb2xYTDRCMURhdkxEAR49QiFuFeJpM0vkfSzCNQqlL_JoVU0fVuBeaO2Z2m2TLLc6Hk5diqI3XPWcYQ_aem_LgzBIG87FTnyo0a9zYpn6w
+
+- 🎓 Soy estudiante universitaria enfocada en **programación** (Python y un poco de Java).  
+- 🔬 Colaboro en equipo de investigación sobre la identificación de la **chinche besucona** con la arquitectura de **YOLOv8**:  
+  [📄 Ver artículo publicado](https://maikron.org/jaica/index.php/ojs/article/view/36?fbclid=IwY2xjawMifxNIeHRuA2FIbQIxMABicmIkETE5cjhGb2xYTDRCMURhdxEAR49QiFuFeJpM0vkfSzCNQgILJoVU0fVuBeaO2Z2m2TLLc6Hk5diqI3XPWcYQ_aem_LgzBlG87FTnyo0a9zYpn6w)
 
 ---
 
