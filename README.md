@@ -4,7 +4,7 @@
 2) Actualiza los enlaces con tus proyectos, LinkedIn, ORCID y correo.
 -->
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="100%" />
+  <img src="./img/banner.jpg" alt="Banner" width="100%" />
 </p>
 
 
