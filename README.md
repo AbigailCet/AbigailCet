@@ -9,6 +9,9 @@
   Estudiante de programación • Python & Java • 
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.svg" alt="Hola, soy Abigail! 👋">
+</p>
 
 ---
 
