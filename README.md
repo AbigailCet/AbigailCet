@@ -25,15 +25,7 @@
 ---
 
 ### 🔧 Tech & Herramientas
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
-</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,docker,linux&perline=7&theme=dark" />
 </p>
